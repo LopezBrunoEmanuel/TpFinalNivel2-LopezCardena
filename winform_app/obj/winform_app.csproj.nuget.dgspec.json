@@ -1,0 +1,113 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\USUARIO\\Desktop\\curso C# nivel 2\\TpFinalNivel2-LopezCardena\\winform_app\\winform_app.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\USUARIO\\Desktop\\curso C# nivel 2\\TpFinalNivel2-LopezCardena\\dominio\\dominio.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\USUARIO\\Desktop\\curso C# nivel 2\\TpFinalNivel2-LopezCardena\\dominio\\dominio.csproj",
+        "projectName": "dominio",
+        "projectPath": "C:\\Users\\USUARIO\\Desktop\\curso C# nivel 2\\TpFinalNivel2-LopezCardena\\dominio\\dominio.csproj",
+        "frameworks": {
+          "net48": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {}
+      }
+    },
+    "C:\\Users\\USUARIO\\Desktop\\curso C# nivel 2\\TpFinalNivel2-LopezCardena\\negocios\\negocios.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\USUARIO\\Desktop\\curso C# nivel 2\\TpFinalNivel2-LopezCardena\\negocios\\negocios.csproj",
+        "projectName": "negocios",
+        "projectPath": "C:\\Users\\USUARIO\\Desktop\\curso C# nivel 2\\TpFinalNivel2-LopezCardena\\negocios\\negocios.csproj",
+        "frameworks": {
+          "net48": {
+            "projectReferences": {
+              "C:\\Users\\USUARIO\\Desktop\\curso C# nivel 2\\TpFinalNivel2-LopezCardena\\dominio\\dominio.csproj": {
+                "projectPath": "C:\\Users\\USUARIO\\Desktop\\curso C# nivel 2\\TpFinalNivel2-LopezCardena\\dominio\\dominio.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {}
+      }
+    },
+    "C:\\Users\\USUARIO\\Desktop\\curso C# nivel 2\\TpFinalNivel2-LopezCardena\\winform_app\\winform_app.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\USUARIO\\Desktop\\curso C# nivel 2\\TpFinalNivel2-LopezCardena\\winform_app\\winform_app.csproj",
+        "projectName": "winform_app",
+        "projectPath": "C:\\Users\\USUARIO\\Desktop\\curso C# nivel 2\\TpFinalNivel2-LopezCardena\\winform_app\\winform_app.csproj",
+        "packagesPath": "C:\\Users\\USUARIO\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\USUARIO\\Desktop\\curso C# nivel 2\\TpFinalNivel2-LopezCardena\\winform_app\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\USUARIO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {
+              "C:\\Users\\USUARIO\\Desktop\\curso C# nivel 2\\TpFinalNivel2-LopezCardena\\dominio\\dominio.csproj": {
+                "projectPath": "C:\\Users\\USUARIO\\Desktop\\curso C# nivel 2\\TpFinalNivel2-LopezCardena\\dominio\\dominio.csproj"
+              },
+              "C:\\Users\\USUARIO\\Desktop\\curso C# nivel 2\\TpFinalNivel2-LopezCardena\\negocios\\negocios.csproj": {
+                "projectPath": "C:\\Users\\USUARIO\\Desktop\\curso C# nivel 2\\TpFinalNivel2-LopezCardena\\negocios\\negocios.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "dependencies": {
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

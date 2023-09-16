@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "winform_app", "winform_app\winform_app.csproj", "{962D2B5B-B7DB-48CC-95E4-263BE204512E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dominio", "dominio\dominio.csproj", "{CD43C113-B5E7-4C13-ADF5-2B5164744E88}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "negocios", "negocios\negocios.csproj", "{BE39538D-E3DF-4B77-8D8E-033A5BA2195D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{962D2B5B-B7DB-48CC-95E4-263BE204512E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{962D2B5B-B7DB-48CC-95E4-263BE204512E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{962D2B5B-B7DB-48CC-95E4-263BE204512E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{962D2B5B-B7DB-48CC-95E4-263BE204512E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD43C113-B5E7-4C13-ADF5-2B5164744E88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD43C113-B5E7-4C13-ADF5-2B5164744E88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD43C113-B5E7-4C13-ADF5-2B5164744E88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD43C113-B5E7-4C13-ADF5-2B5164744E88}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE39538D-E3DF-4B77-8D8E-033A5BA2195D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE39538D-E3DF-4B77-8D8E-033A5BA2195D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE39538D-E3DF-4B77-8D8E-033A5BA2195D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE39538D-E3DF-4B77-8D8E-033A5BA2195D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2A92CAAE-EE41-435C-ADC1-E5B970D81FD8}
+	EndGlobalSection
+EndGlobal

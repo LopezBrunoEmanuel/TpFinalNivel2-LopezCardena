@@ -1,0 +1,55 @@
+C:\Users\USUARIO\Desktop\digitalers\TpFinalNivel2-LopezCardena\winform_app\obj\Debug\net6.0-windows\winform_app.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\digitalers\TpFinalNivel2-LopezCardena\winform_app\obj\Debug\net6.0-windows\winform_app.Form1.resources
+C:\Users\USUARIO\Desktop\digitalers\TpFinalNivel2-LopezCardena\winform_app\obj\Debug\net6.0-windows\winform_app.csproj.GenerateResource.cache
+C:\Users\USUARIO\Desktop\digitalers\TpFinalNivel2-LopezCardena\winform_app\obj\Debug\net6.0-windows\winform_app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Desktop\digitalers\TpFinalNivel2-LopezCardena\winform_app\obj\Debug\net6.0-windows\winform_app.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Desktop\digitalers\TpFinalNivel2-LopezCardena\winform_app\obj\Debug\net6.0-windows\winform_app.AssemblyInfo.cs
+C:\Users\USUARIO\Desktop\digitalers\TpFinalNivel2-LopezCardena\winform_app\obj\Debug\net6.0-windows\winform_app.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\digitalers\TpFinalNivel2-LopezCardena\winform_app\bin\Debug\net6.0-windows\winform_app.exe
+C:\Users\USUARIO\Desktop\digitalers\TpFinalNivel2-LopezCardena\winform_app\bin\Debug\net6.0-windows\winform_app.deps.json
+C:\Users\USUARIO\Desktop\digitalers\TpFinalNivel2-LopezCardena\winform_app\bin\Debug\net6.0-windows\winform_app.runtimeconfig.json
+C:\Users\USUARIO\Desktop\digitalers\TpFinalNivel2-LopezCardena\winform_app\bin\Debug\net6.0-windows\winform_app.dll
+C:\Users\USUARIO\Desktop\digitalers\TpFinalNivel2-LopezCardena\winform_app\bin\Debug\net6.0-windows\winform_app.pdb
+C:\Users\USUARIO\Desktop\digitalers\TpFinalNivel2-LopezCardena\winform_app\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\USUARIO\Desktop\digitalers\TpFinalNivel2-LopezCardena\winform_app\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\USUARIO\Desktop\digitalers\TpFinalNivel2-LopezCardena\winform_app\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\USUARIO\Desktop\digitalers\TpFinalNivel2-LopezCardena\winform_app\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\USUARIO\Desktop\digitalers\TpFinalNivel2-LopezCardena\winform_app\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\USUARIO\Desktop\digitalers\TpFinalNivel2-LopezCardena\winform_app\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\USUARIO\Desktop\digitalers\TpFinalNivel2-LopezCardena\winform_app\obj\Debug\net6.0-windows\winform_app.csproj.CopyComplete
+C:\Users\USUARIO\Desktop\digitalers\TpFinalNivel2-LopezCardena\winform_app\obj\Debug\net6.0-windows\winform_app.dll
+C:\Users\USUARIO\Desktop\digitalers\TpFinalNivel2-LopezCardena\winform_app\obj\Debug\net6.0-windows\refint\winform_app.dll
+C:\Users\USUARIO\Desktop\digitalers\TpFinalNivel2-LopezCardena\winform_app\obj\Debug\net6.0-windows\winform_app.pdb
+C:\Users\USUARIO\Desktop\digitalers\TpFinalNivel2-LopezCardena\winform_app\obj\Debug\net6.0-windows\winform_app.genruntimeconfig.cache
+C:\Users\USUARIO\Desktop\digitalers\TpFinalNivel2-LopezCardena\winform_app\obj\Debug\net6.0-windows\ref\winform_app.dll
+C:\Users\USUARIO\Desktop\curso C# nivel 2\TpFinalNivel2-LopezCardena\winform_app\bin\Debug\net6.0-windows\winform_app.exe
+C:\Users\USUARIO\Desktop\curso C# nivel 2\TpFinalNivel2-LopezCardena\winform_app\bin\Debug\net6.0-windows\winform_app.deps.json
+C:\Users\USUARIO\Desktop\curso C# nivel 2\TpFinalNivel2-LopezCardena\winform_app\bin\Debug\net6.0-windows\winform_app.runtimeconfig.json
+C:\Users\USUARIO\Desktop\curso C# nivel 2\TpFinalNivel2-LopezCardena\winform_app\bin\Debug\net6.0-windows\winform_app.dll
+C:\Users\USUARIO\Desktop\curso C# nivel 2\TpFinalNivel2-LopezCardena\winform_app\bin\Debug\net6.0-windows\winform_app.pdb
+C:\Users\USUARIO\Desktop\curso C# nivel 2\TpFinalNivel2-LopezCardena\winform_app\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\USUARIO\Desktop\curso C# nivel 2\TpFinalNivel2-LopezCardena\winform_app\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\USUARIO\Desktop\curso C# nivel 2\TpFinalNivel2-LopezCardena\winform_app\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\USUARIO\Desktop\curso C# nivel 2\TpFinalNivel2-LopezCardena\winform_app\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\USUARIO\Desktop\curso C# nivel 2\TpFinalNivel2-LopezCardena\winform_app\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\USUARIO\Desktop\curso C# nivel 2\TpFinalNivel2-LopezCardena\winform_app\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\USUARIO\Desktop\curso C# nivel 2\TpFinalNivel2-LopezCardena\winform_app\obj\Debug\net6.0-windows\winform_app.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\curso C# nivel 2\TpFinalNivel2-LopezCardena\winform_app\obj\Debug\net6.0-windows\winform_app.Form1.resources
+C:\Users\USUARIO\Desktop\curso C# nivel 2\TpFinalNivel2-LopezCardena\winform_app\obj\Debug\net6.0-windows\winform_app.csproj.GenerateResource.cache
+C:\Users\USUARIO\Desktop\curso C# nivel 2\TpFinalNivel2-LopezCardena\winform_app\obj\Debug\net6.0-windows\winform_app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Desktop\curso C# nivel 2\TpFinalNivel2-LopezCardena\winform_app\obj\Debug\net6.0-windows\winform_app.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Desktop\curso C# nivel 2\TpFinalNivel2-LopezCardena\winform_app\obj\Debug\net6.0-windows\winform_app.AssemblyInfo.cs
+C:\Users\USUARIO\Desktop\curso C# nivel 2\TpFinalNivel2-LopezCardena\winform_app\obj\Debug\net6.0-windows\winform_app.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\curso C# nivel 2\TpFinalNivel2-LopezCardena\winform_app\obj\Debug\net6.0-windows\winform_app.csproj.CopyComplete
+C:\Users\USUARIO\Desktop\curso C# nivel 2\TpFinalNivel2-LopezCardena\winform_app\obj\Debug\net6.0-windows\winform_app.dll
+C:\Users\USUARIO\Desktop\curso C# nivel 2\TpFinalNivel2-LopezCardena\winform_app\obj\Debug\net6.0-windows\refint\winform_app.dll
+C:\Users\USUARIO\Desktop\curso C# nivel 2\TpFinalNivel2-LopezCardena\winform_app\obj\Debug\net6.0-windows\winform_app.pdb
+C:\Users\USUARIO\Desktop\curso C# nivel 2\TpFinalNivel2-LopezCardena\winform_app\obj\Debug\net6.0-windows\winform_app.genruntimeconfig.cache
+C:\Users\USUARIO\Desktop\curso C# nivel 2\TpFinalNivel2-LopezCardena\winform_app\obj\Debug\net6.0-windows\ref\winform_app.dll
+C:\Users\USUARIO\Desktop\curso C# nivel 2\TpFinalNivel2-LopezCardena\winform_app\bin\Debug\net6.0-windows\dominio.dll
+C:\Users\USUARIO\Desktop\curso C# nivel 2\TpFinalNivel2-LopezCardena\winform_app\bin\Debug\net6.0-windows\negocios.dll
+C:\Users\USUARIO\Desktop\curso C# nivel 2\TpFinalNivel2-LopezCardena\winform_app\bin\Debug\net6.0-windows\dominio.pdb
+C:\Users\USUARIO\Desktop\curso C# nivel 2\TpFinalNivel2-LopezCardena\winform_app\bin\Debug\net6.0-windows\negocios.pdb
+C:\Users\USUARIO\Desktop\curso C# nivel 2\TpFinalNivel2-LopezCardena\winform_app\obj\Debug\net6.0-windows\winform_app.frmAltaArticulo.resources
+C:\Users\USUARIO\Desktop\curso C# nivel 2\TpFinalNivel2-LopezCardena\winform_app\bin\Debug\net6.0-windows\winform_app.dll.config
+C:\Users\USUARIO\Desktop\curso C# nivel 2\TpFinalNivel2-LopezCardena\winform_app\obj\Debug\net6.0-windows\winform_app.detalleArticulo.resources
